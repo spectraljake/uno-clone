@@ -1,0 +1,1 @@
+Hey! This project is meant to be an example to people who want to learn the Rojo workflow.
